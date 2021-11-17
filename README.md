@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hoangdloc
-- 👀 I’m interested in football
+- 👀 I’m interested in football, music and photography
 - 🌱 I’m currently learning information technology in PTIT
 - 💞️ I’m looking to collaborate on developing a relationship project
 - 📫 How to reach me: Facebook https://www.facebook.com/mr.cairne/
