@@ -12,4 +12,4 @@
 ## 📈 Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hoangdloc&theme=tokyonight&show_icons=true&count_private=true"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdloc&theme=tokyonight&layout=compact&langs_count=8"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdloc&theme=tokyonight&layout=&langs_count=3"></p>
