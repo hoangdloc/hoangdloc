@@ -11,4 +11,4 @@
 ## 📈 Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hoangdloc&theme=tokyonight&show_icons=true&count_private=true"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdloc&theme=tokyonight&layout=compact&card_width=260"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdloc&theme=tokyonight&layout=compact&card_width=270"></p>
