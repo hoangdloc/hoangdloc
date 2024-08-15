@@ -2,7 +2,7 @@
 
 <a href=https://www.linkedin.com/in/hoang-loc/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"></a><a href=https://www.instagram.com/hoang__loc/> <img src="https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram"></a>
 
-👨‍💻 My name is Hoang Loc. I'm from Hanoi, Vietnam and my goal is to become a web developer. Right now, I'm fully focusing on Javascript, Typescript and ReactJS.\
+👨‍💻 My name is Hoang Loc. I'm from Hanoi, Vietnam and my goal is to become a web developer. Right now, I'm fully focusing on ReactJS and NextJS.\
 📫 How to reach me: Everyone can contact me through my gmail: hoanggdloc@gmail.com
 
 ## 🚀 Programming language and technologies:
